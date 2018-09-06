@@ -6,5 +6,7 @@ leipä
 sipuli
 pallo
 kiekko
-hppy
-hessu
+lassoja
+niittejä
+nauloja
+
