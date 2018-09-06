@@ -13,3 +13,4 @@ nauloja
 mukaan laitetaan
 paljon ilmapalloja
 ja nallekarhuja
+lisäksi munkkipossu
